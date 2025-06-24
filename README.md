@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, T'm Teodora! 👋<br><br>📈 Data Analyst eager to bring expertise in customer experience, stakeholder management and creative problem-solving to a tech role.<br><br>•
-Studied *Business and Events Management* at Anglia Rusking University<br><br>• Completed the **Investment Foundations Proram** by CFA in 2022<br><br>• Acquired a certificate in **Introduction to Data&SQL** through Code First Girls in 2024<br><br>• Completed a 16 week **Data Analytics Accelerator**, advancing skills in SLQ, Excel and Power BI<br><br>⚡ Currently learning more about Python, Tableu and Looker<br><br>😄 Pronouns: They/She<br><br><br>
+Graduated with a First in *Business and Events Management* at Anglia Rusking University<br><br>• Completed the **Investment Foundations Proram** by CFA in 2022<br><br>• Acquired a certificate in **Introduction to Data&SQL** through Code First Girls in 2024<br><br>• Completed a 16 week **Data Analytics Accelerator**, advancing skills in SLQ, Excel and Power BI<br><br>⚡ Currently learning more about Python, Tableu and Looker<br><br>😄 Pronouns: They/She<br><br><br>
 
 
 ## 🌐 Socials:
